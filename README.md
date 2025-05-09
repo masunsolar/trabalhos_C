@@ -28,5 +28,7 @@ Crie um programa que leia uma matriz A (3x5) e, em seguida, uma matriz B (3x5). 
 - Observe a saída e valide os resultados.
 
 ## Autor
-Este conjunto de exercícios foi preparado para o estudo de vetores e matrizes na linguagem C.
+Este conjunto de exercícios foi preparado para o estudo de vetores e matrizes da faculdade UNIFIL.
+
+## Aluno: Natan S. Rodrigues
 
